@@ -12,7 +12,7 @@ fieldset {
 }
 
 legend {
-  font:  600 1rem/1.25 var(--font-family);
+  font: 600 1rem/1.25 var(--font-family);
   margin-bottom: 1.5rem;
 }
 
